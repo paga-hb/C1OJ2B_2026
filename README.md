@@ -1,7 +1,7 @@
 # Object-Oriented Software Development (C1OJ2B) Spring 2026
 This is the repository for the Object-Oriented Software Development (Spring 2026) course at Borås University.
 
-The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?startDatum=2026-01-20&intervallTyp=m&intervallAntal=1&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.C1OJ2B-20261-I13V6-) and the course material can be found on Canvas.
+The course schedule can be found on [Kronox](https://schema.hb.se/setup/jsp/Schema.jsp?startDatum=2026-01-20&intervallTyp=m&intervallAntal=1&sprak=SV&sokMedAND=true&forklaringar=true&resurser=k.C1OJ2B-20261-I13V6-) and the course material can be found on [Canvas](https://hb.instructure.com/courses/11167).
 
 ## Delopment Environment Setup
 
